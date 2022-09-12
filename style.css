@@ -1,5 +1,16 @@
-.message {
+
+
+.container {
+    margin: 50px;
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+#background-image {
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    background-size: cover;
 }
